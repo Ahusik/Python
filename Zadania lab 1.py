@@ -23,13 +23,13 @@ import math
 # if (int(zmienna1) == 1):
 #     dodawanie = a + b
 #     print("wynik dodawania to ", dodawanie)
-# if (int(zmienna1) == 2):
+# elif (int(zmienna1) == 2):
 #     odejmowanie = a - b
 #     print("wynik odejmowania to ", odejmowanie)
-# if (int(zmienna1) == 3):
+# elif (int(zmienna1) == 3):
 #     mnozenie = a * b
 #     print("wynik mnozenia to ", mnozenie)
-# if (int(zmienna1) == 4):
+# elif (int(zmienna1) == 4):
 #     dzielenie = a / b
 #     print("wynik dzielenia to ", dzielenie)
 
