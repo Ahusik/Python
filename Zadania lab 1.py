@@ -100,9 +100,6 @@ import math
 # print(str.split("Dancing"))
 
 #Zad9
-# a = 10
-# print(type(a))
-# print(float(b))
 # a = '10'
 # print(type(a))
 # print(a)
