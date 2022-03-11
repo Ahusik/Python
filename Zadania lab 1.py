@@ -11,14 +11,6 @@ import math
 # zmienna1 = 'Python'
 # zmienna2 = "super"
 # print(zmienna1 + ' jest ' + zmienna2)
-#
-# zmienna1 = input('Podaj imię: ')
-# print('Witaj', zmienna1)
-#
-# zmienna1 = input("Podaj 1 liczbę: ")
-# zmienna2 = input("Podaj 2 liczbę: ")
-# wynik = int(zmienna1) + int(zmienna2)
-# print("Suma:", wynik)
 
 #Zad2
 # print("Kalkulator.\n")
