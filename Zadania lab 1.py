@@ -67,6 +67,13 @@ import math
 # a= int(a)
 # e= a ** 10
 # print(e)
+
+
+
+# b = 3/55
+# print(b)
+# c = 4/80
+# print(c)
 # NIEDOKONCZONE
 
 #Zad5
@@ -86,7 +93,9 @@ import math
 # print(str.count("Get up on the floor"))
 
 #Zad7
-#NIEDKONCZONE
+# a = input('Podaj swoje imie: ')
+# b = len(a) - 1
+# print(a[1], a[b])
 
 #Zad8
 # str = """""Get up on the floor
